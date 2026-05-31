@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "InvoiceFlow - Professional Invoice Generator",
-  description: "Professional hourly rate calculator and invoice generator. Create beautiful invoices in seconds with time tracking and expense management.",
+  title: "DrillWorks Invoice Builder",
+  description: "Invoice builder for DrillWorks handyman services, products, and materials.",
 };
 
 export default function RootLayout({
